@@ -1,0 +1,125 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CloverLinkedButton renders correctly with all properties set, size=large 1`] = `
+<a
+  buttonSize="large"
+  className="sc-bdVaJa fUsqPR"
+  href="/https://www.google.com/"
+  onClick={[Function]}
+  themeProp={
+    Object {
+      "palette": Object {
+        "body": "#363333",
+        "dark": "rgb(54, 51, 51)",
+        "inverse": "#f6e9e9",
+        "inverseText": "#363333",
+        "negative": "#FCA6A6",
+        "positive": "#BAEDBF",
+        "primary": "yellow",
+        "primaryText": "#f6e9e9",
+        "secondary": "#272121",
+        "secondaryText": "#272121",
+        "text": "#f6e9e9",
+      },
+    }
+  }
+>
+  next
+</a>
+`;
+
+exports[`CloverLinkedButton renders correctly with all properties set, size=normal 1`] = `
+<a
+  buttonSize="normal"
+  className="sc-bdVaJa hKCCtf"
+  href="/https://www.google.com/"
+  onClick={[Function]}
+  themeProp={
+    Object {
+      "palette": Object {
+        "body": "#363333",
+        "dark": "rgb(54, 51, 51)",
+        "inverse": "#f6e9e9",
+        "inverseText": "#363333",
+        "negative": "#FCA6A6",
+        "positive": "#BAEDBF",
+        "primary": "yellow",
+        "primaryText": "#f6e9e9",
+        "secondary": "#272121",
+        "secondaryText": "#272121",
+        "text": "#f6e9e9",
+      },
+    }
+  }
+>
+  next
+</a>
+`;
+
+exports[`CloverLinkedButton renders correctly with only required properties set 1`] = `
+<a
+  buttonSize={undefined}
+  className="sc-bdVaJa bYoCZr"
+  href="/https://www.google.com/"
+  onClick={[Function]}
+  themeProp={
+    Object {
+      "fonts": Object {
+        "code": "source-code-pro, Menlo, Monaco, Consolas, \\"Courier New\\",
+        monospace",
+        "main": "-apple-system, BlinkMacSystemFont, \\"Segoe UI\\", \\"Roboto\\", \\"Oxygen\\",
+        \\"Ubuntu\\", \\"Cantarell\\", \\"Fira Sans\\", \\"Droid Sans\\", \\"Helvetica Neue\\",
+        sans-serif",
+      },
+      "palette": Object {
+        "body": "#363333",
+        "dark": "rgb(54, 51, 51)",
+        "inverse": "#f6e9e9",
+        "inverseText": "#363333",
+        "negative": "#FCA6A6",
+        "positive": "#BAEDBF",
+        "primary": "#196222",
+        "primaryText": "#f6e9e9",
+        "secondary": "#272121",
+        "secondaryText": "#272121",
+        "text": "#f6e9e9",
+      },
+    }
+  }
+>
+  Home
+</a>
+`;
+
+exports[`CloverToggleButton renders correctly with no title given 1`] = `
+<a
+  buttonSize={undefined}
+  className="sc-bdVaJa bYoCZr"
+  href="/https://www.google.com/"
+  onClick={[Function]}
+  themeProp={
+    Object {
+      "fonts": Object {
+        "code": "source-code-pro, Menlo, Monaco, Consolas, \\"Courier New\\",
+        monospace",
+        "main": "-apple-system, BlinkMacSystemFont, \\"Segoe UI\\", \\"Roboto\\", \\"Oxygen\\",
+        \\"Ubuntu\\", \\"Cantarell\\", \\"Fira Sans\\", \\"Droid Sans\\", \\"Helvetica Neue\\",
+        sans-serif",
+      },
+      "palette": Object {
+        "body": "#363333",
+        "dark": "rgb(54, 51, 51)",
+        "inverse": "#f6e9e9",
+        "inverseText": "#363333",
+        "negative": "#FCA6A6",
+        "positive": "#BAEDBF",
+        "primary": "#196222",
+        "primaryText": "#f6e9e9",
+        "secondary": "#272121",
+        "secondaryText": "#272121",
+        "text": "#f6e9e9",
+      },
+    }
+  }
+/>
+`;

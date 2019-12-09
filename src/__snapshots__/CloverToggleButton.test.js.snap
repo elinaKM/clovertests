@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CloverToggleButton renders correctly with all properties set 1`] = `
+<button
+  className="sc-bwzfXH jUAIJN"
+  fontSize="40px"
+  onClick={[Function]}
+>
+  Roll
+</button>
+`;
+
+exports[`CloverToggleButton renders correctly with no properties set 1`] = `
+<button
+  className="sc-bwzfXH hxoqPB"
+  fontSize={undefined}
+  onClick={undefined}
+>
+  Roll
+</button>
+`;
+
+exports[`CloverToggleButton renders correctly with no title given 1`] = `
+<button
+  className="sc-bwzfXH hxoqPB"
+  fontSize={undefined}
+  onClick={undefined}
+/>
+`;
